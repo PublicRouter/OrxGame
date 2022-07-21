@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0dfff63a.css",
+    "main.js": "/static/js/main.75b78e7e.js",
+    "static/media/warcheif_222.jpg": "/static/media/warcheif_222.fe6775502f72dd464fa1.jpg",
+    "static/media/whitePaper.jpg": "/static/media/whitePaper.59737a4f5fb1604539c8.jpg",
+    "static/media/orcLogo.png": "/static/media/orcLogo.bc713e4afb3b87856269.png",
+    "static/media/jamesTeam.jpg": "/static/media/jamesTeam.23df084163a714fe1161.jpg",
+    "static/media/mainBackground.jpg": "/static/media/mainBackground.d0da284444a88dff91e2.jpg",
+    "static/media/logo3.png": "/static/media/logo3.73d091a1603dac5861d8.png",
+    "static/media/wowBridge.jpg": "/static/media/wowBridge.bc09e72a563bc470ef03.jpg",
+    "static/media/discord.svg": "/static/media/discord.92a6fb5b9d41e68b92545e2556d4696b.svg",
+    "static/media/twitter.svg": "/static/media/twitter.c079aa365b7dd221581f3e603b89b4ee.svg",
+    "index.html": "/index.html",
+    "static/media/fb.svg": "/static/media/fb.007eb85806b652f054dd9ee8f5ae5f4c.svg",
+    "static/media/email.svg": "/static/media/email.73becbebe022794f31737c83d2640b14.svg",
+    "main.0dfff63a.css.map": "/static/css/main.0dfff63a.css.map",
+    "main.75b78e7e.js.map": "/static/js/main.75b78e7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dfff63a.css",
+    "static/js/main.75b78e7e.js"
+  ]
+}
